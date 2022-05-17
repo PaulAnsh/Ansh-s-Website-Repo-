@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-## Techstalk : 
+## Techstack : 
 - HTML & CSS
 - Bootstrap 
 - AWS S3
