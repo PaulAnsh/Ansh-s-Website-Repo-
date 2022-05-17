@@ -16,6 +16,9 @@ AWS cloud platform is used in hosting of a website. The services used are:
 - Cloud Front for caching the content which provides better website performance. 
 - Route 53 for domain sservices. 
 
+#### Here's an overview of the services used:
+
+![image](https://user-images.githubusercontent.com/74669526/168925005-25d22612-7a23-42c1-93a2-6f9eaba0fa57.png)
 
 
 
