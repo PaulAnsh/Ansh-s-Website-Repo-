@@ -9,24 +9,12 @@
 - Route 53
 
 
-Hosting In detail:
+### Hosting in detail:
 
-AWS cloud platform is used in hosting a website. The services used are S3 for storing the content(Code) of the website
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+AWS cloud platform is used in hosting of a website. The services used are:
+- S3 for storing the content(Code) of the website. 
+- Cloud Front for caching the content which provides better website performance. 
+- Route 53 for domain sservices. 
 
 
 
