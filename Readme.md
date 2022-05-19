@@ -24,9 +24,8 @@ AWS cloud platform is used in hosting of a website. The services used are:
 
 
 
-Thanks for downloading this template!
 
-Template Name: FlexStart
+Template Used:
 Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
