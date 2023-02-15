@@ -287,3 +287,19 @@
   });
 
 })();
+
+const counter = document.querySelector(".counter-number");
+async function updateCounter() {
+  let response = await fetch( "https://aeqf4v7fdbo37yh3csetdhjusa0ogrdb.lambda-url.us-east-1.on.aws/" ); 
+  let data = await response.json(); 
+  counter.innerHTML = `Site Views: ${data}`;
+ }
+
+updateCounter();
+
+async function countUpdate(){
+  let result = await fetch("https://siruzsuzfnhdgik3ljtdkttvii0bmumm.lambda-url.us-east-1.on.aws/");
+  console.log (result);
+}
+
+countUpdate();
