@@ -418,15 +418,15 @@ section {
 }
 .hero .hero-img {
   text-align: right;
-  border-radius: 50%;
+  border-radius: 0;
 }
 .hero.hero-img {
-  border-radius: 50%;
+  border-radius: 0%;
 }
 
 .img-fluid {
-  border-radius: 50%;
-  height:;
+  border-radius: 0%;
+  height: 40;
 }
 @media (min-width: 1024px) {
   .hero {
