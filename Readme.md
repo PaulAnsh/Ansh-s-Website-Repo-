@@ -22,15 +22,6 @@ AWS cloud platform is used in hosting of a website. The services used are:
 ![image](https://user-images.githubusercontent.com/74669526/168925005-25d22612-7a23-42c1-93a2-6f9eaba0fa57.png)
 
 
-### Dynamo DB:
-
-Creating Dynamo DB table: 
-name-count_table
-partition ID- record_id
-
-after that, create a item in the table. I created record_count (number) I used 4, you can use any number. 
-
-
 
 Template Used:
 Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
