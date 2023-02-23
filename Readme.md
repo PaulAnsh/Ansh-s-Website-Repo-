@@ -1,5 +1,5 @@
 # My Personal Portfolio
-[![Deploy](https://github.com/PaulAnsh/FlexStart/actions/workflows/main.yml/badge.svg)](https://github.com/PaulAnsh/FlexStart/actions/workflows/main.yml) [![Website](https://img.shields.io/badge/Website-anshpaul.me-green)]([https//:anshpaul.me](https://anshpaul.me/))
+[![Deploy](https://github.com/PaulAnsh/FlexStart/actions/workflows/main.yml/badge.svg)](https://github.com/PaulAnsh/FlexStart/actions/workflows/main.yml) [![Website](https://img.shields.io/badge/Website-anshpaul.me-green)]](anshpaul.me)
 
 ## Techstack : 
 - HTML & CSS
