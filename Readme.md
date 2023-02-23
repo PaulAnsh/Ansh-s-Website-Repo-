@@ -38,6 +38,16 @@ In this challenge, I used several AWS services to configure and mantian the webs
 - Labda functions
 - Dynamo DB
 
+## In detail: 
+- API Gateway: To fetch the current records count. 
+- DynamoDB: Created DynamoDB table to store data. 
+- Lambda function: Created two functions:
+                   1. First functions to fetch the visitor count from Dynamo DB records. 
+                   2. Second to update the visitor count in Dynamo DB records. 
+
+Edited website using javascript to show the total view count on the website.
+       
+
 
   
   
