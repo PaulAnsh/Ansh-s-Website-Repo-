@@ -47,6 +47,7 @@ In this challenge, I used several AWS services to configure and mantian the webs
 
 Edited website using javascript to show the total view count on the website.
 
+## Here is an screen shot of total site views on portfolio website: 
 ![image](https://user-images.githubusercontent.com/74669526/220795136-b9c21c83-98d4-47a2-a0c4-1b4e2b9b69ff.png)
  
 
