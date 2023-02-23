@@ -25,20 +25,16 @@ AWS cloud platform is used for hosting the website. The services used are:
 
 #### Template Used:
 
-[Template URL](https://bootstrapmade.com/flexstart-bootstrap-startup-template/)
-[License](https://bootstrapmade.com/license/)
+-[Template URL](https://bootstrapmade.com/flexstart-bootstrap-startup-template/)
+-[License](https://bootstrapmade.com/license/)
 
 
 # Cloud Resume Challenge:
 
-In this challenge, I used several AWS services to configure and mantian the website(https://anshpaul.me) views.
+This websitwe is part of my attempt at cloud resume challenge.
 
-## Tech Stalk:
-- API Gateway
-- Labda functions
-- Dynamo DB
 
-## In detail: 
+## More services used:
 - API Gateway: To fetch the current records count. 
 - DynamoDB: Created DynamoDB table to store data. 
 - Lambda function: Created two functions:
@@ -47,7 +43,7 @@ In this challenge, I used several AWS services to configure and mantian the webs
 
 Edited website using javascript to show the total view count on the website.
 
-## Here is an screen shot of total site views on portfolio website: 
+## Website screen shot with views functionality.  
 ![image](https://user-images.githubusercontent.com/74669526/220795136-b9c21c83-98d4-47a2-a0c4-1b4e2b9b69ff.png)
  
 
