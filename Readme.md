@@ -27,3 +27,17 @@ Template Used:
 Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
+
+
+# Cloud Resume Challenge:
+
+In this challenge, I used several AWS services to configure and mantian the website(https://anshpaul.me) views.
+
+## Tech Stalk:
+- API Gateway
+- Labda functions
+- Dynamo DB
+
+
+  
+  
